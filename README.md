@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>⌨️ I'm currently working for DBragas IT as Junior Front-end Developer<br>🎯 Goals: Learn more to become a senior someday<br>🎲 Fun fact: I used to be a basketball player 🏀</p>
+<p align="left">✨ Creating bugs since 2020<br>⌨️ I'm currently working for Global Hitss as Front-end Developer<br>🎯 Goals: Learn more to become a senior someday<br>🎲 Fun fact: I used to be a basketball player 🏀</p>
 
 ###
 
